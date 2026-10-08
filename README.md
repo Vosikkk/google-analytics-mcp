@@ -1,5 +1,7 @@
 # Vosik Signals — Google Analytics 4 MCP
 
+> Part of **[Vosik Signals](https://github.com/Vosikkk/vosik-signals)** — hosted Google Analytics 4 and Google Search Console connectors for AI assistants. See the main repository for both endpoints and shared documentation.
+
 Connect your Google Analytics 4 data to an AI assistant through a hosted, read-only MCP server.
 
 **MCP endpoint:** `https://ga4.vosiksignals.win/mcp`
