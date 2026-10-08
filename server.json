@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.vosikkk/google-analytics-mcp",
+  "title": "Vosik Signals Google Analytics 4",
+  "description": "Hosted read-only Google Analytics 4 MCP server for exploring GA4 reports and properties with AI assistants.",
+  "version": "1.0.0",
+  "websiteUrl": "https://vosiksignals.win",
+  "repository": {
+    "url": "https://github.com/Vosikkk/google-analytics-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://ga4.vosiksignals.win/mcp"
+    }
+  ]
+}
